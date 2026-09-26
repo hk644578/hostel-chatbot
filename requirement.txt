@@ -1,0 +1,15 @@
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-nvidia-ai-endpoints
+sentence-transformers
+faiss-cpu
+rank-bm25
+pypdf
+python-docx
+numpy
+pandas
+python-dotenv
+streamlit
+scikit-learn
