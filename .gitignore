@@ -95,3 +95,6 @@ temp/
 # Streamlit
 # =========================
 .streamlit/secrets.toml
+
+#pdfs
+web_data/
